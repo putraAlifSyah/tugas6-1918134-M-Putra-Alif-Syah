@@ -1,0 +1,6 @@
+com/example/workmanagerexample/BuildConfig.java
+ com.example.workmanagerexample.BuildConfig
+com/example/workmanagerexample/LocationUploadWorker.java
+ com.example.workmanagerexample.LocationUploadWorker
+com/example/workmanagerexample/MainActivity.java
+ com.example.workmanagerexample.MainActivity
